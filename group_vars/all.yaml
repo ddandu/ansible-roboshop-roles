@@ -3,3 +3,4 @@ REDIS_HOST: redis.devresh.online
 CATALOGUE_HOST: catalogue.devresh.online
 MYSQL_HOST: mysql.devresh.online
 CART_HOST: cart.devresh.online
+SHIPPING_HOST: shipping.devresh.online
