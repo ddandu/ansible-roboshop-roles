@@ -4,3 +4,6 @@ CATALOGUE_HOST: catalogue.devresh.online
 MYSQL_HOST: mysql.devresh.online
 CART_HOST: cart.devresh.online
 SHIPPING_HOST: shipping.devresh.online
+USER_HOST: user.devresh.online
+RABBITMQ_HOST: rabbitmq.devresh.online
+PAYMENT_HOST: payment.devresh.online
